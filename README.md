@@ -1,6 +1,6 @@
 ## Hi there, I'm Leonardo 👋
 
-- 🔭 I’m currently studying systems development.
+- 🔭 I study systems development;
 - ❤️ I love programming languages.
 - 📫 How to reach me: Leo.grizolia@hotmail.com
 

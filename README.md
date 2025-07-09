@@ -1,7 +1,7 @@
 ## Hi there, I'm Leonardo 👋
 
 - 🔭 I’m currently studying systems development.
-- 🌱 I’m currently learning React.js.
+- ❤️ I love programming languages.
 - 📫 How to reach me: Leo.grizolia@hotmail.com
 
 
